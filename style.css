@@ -1,0 +1,36 @@
+header {
+	background-color: #bbF;
+	height: 30px;
+	margin: 5px;
+	padding: 5px;
+	color: white;
+	font-size: large;
+}
+
+nav,
+footer {
+	background-color: #aaF;
+	margin: 5px;
+	padding: 5px;
+	color: white
+}
+
+nav a {
+	padding-right: 10px;
+	text-decoration: none;
+	color: white;
+	border: 1px solid white;
+	padding: 5px;
+	margin: 5px;
+	display: inline-block;
+}
+
+nav a:hover {
+	background-color: white;
+	color: #aaF;
+	
+}
+
+section {
+	min-height: 200px;
+}
