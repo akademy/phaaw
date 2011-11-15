@@ -1,7 +1,6 @@
 <html>
 <head>
 <link rel="stylesheet" type="text/css" href="style.css" />
-<title>Page Two</title>
 </head>
 <body>
 <header>Page link test</header>

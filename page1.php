@@ -1,7 +1,6 @@
 <html>
 <head>
 <link rel="stylesheet" type="text/css" href="style.css" />
-<title>Page One</title>
 </head>
 <body>
 <header>Page link test</header>
@@ -21,3 +20,4 @@ require_once( "javascript.inc.php" );
 ?>
 </foot>
 </html>
+

@@ -3,7 +3,7 @@ body {
 }
 
 header {
-	background-color: #bbF;
+	background-color: #bbf;
 	height: 30px;
 	margin: 5px;
 	padding: 5px;
@@ -13,7 +13,7 @@ header {
 
 nav,
 footer {
-	background-color: #aaF;
+	background-color: #aaf;
 	margin: 5px;
 	padding: 5px;
 	color: white
@@ -41,6 +41,9 @@ section {
 	padding: 5px;
 }
 
+section#main {
+	background-color: #0D0;
+}
 
 
 
